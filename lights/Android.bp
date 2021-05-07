@@ -27,4 +27,5 @@ cc_binary {
         "liblog",
         "libutils",
     ],
+    proprietary: true,
 }
