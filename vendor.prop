@@ -204,3 +204,6 @@ vendor.usb.rndis.func.name=rndis_bam
 
 # Wi-Fi
 wifi.aware.interface=wifi-aware0
+
+# Refresh Rate
+vendor.display.skip_refresh_rate_change=1
