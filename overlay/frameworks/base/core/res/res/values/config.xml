@@ -553,4 +553,11 @@
     <!-- The default peak refresh rate. -->
     <integer name="config_defaultPeakRefreshRate">90</integer>
 
+    <!-- List of comma separated package names for which we the system will not show crash like
+         tts, etc. dialogs. -->
+    <string name="config_appsNotReportingCrashes">com.google.android.tts</string>
+
+    <!-- Whether usage of the proximity sensor during doze is supported -->
+    <bool name="doze_proximity_sensor_supported">false</bool>
+
 </resources>
