@@ -560,4 +560,7 @@
     <!-- Whether usage of the proximity sensor during doze is supported -->
     <bool name="doze_proximity_sensor_supported">false</bool>
 
+    <!-- Whether device supports gaming mode profiles -->
+    <bool name="config_gamingmode_performance">true</bool>
+
 </resources>
