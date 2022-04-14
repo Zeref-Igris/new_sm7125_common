@@ -789,10 +789,6 @@ odm/lib64/libpnscr2.so|36ffef654ac4918d9391a0d85d1d5378c56fe819
 odm/etc/init/init.network.rc
 odm/etc/init/init.oppo.reserve.rc
 
-# PASR
-vendor/lib/vendor.qti.power.pasrmanager@1.0.so
-vendor/lib64/vendor.qti.power.pasrmanager@1.0.so
-
 # Performance
 vendor/bin/hw/vendor.qti.hardware.perf@2.2-service
 vendor/bin/msm_irqbalance
